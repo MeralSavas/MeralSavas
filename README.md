@@ -1,8 +1,7 @@
 [![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Meral+SAVAS;Welcome+to+my+Github+profile;I'm+Fullstack+Developer...;)](https://git.io/typing-svg)
 <p align="center">
-<div>
-        <a href="https://media1.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=790b7611e7b495198b708d66df24216a1137b621de3e235f&rid=giphy.gif&ct=g">gif</a>
-</div>
+<!-- ![gif](<iframe src="https://giphy.com/embed/L8K62iTDkzGX6" width="480" height="307" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/web-development-L8K62iTDkzGX6">via GIPHY</a></p>)
+ -->
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meral-savas-55b45723a/) 
 <h3 align="center">A passionate Frontend Developer from UK</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MeralSavas&label=Profile%20views&color=0e75b6&style=flat" alt="MeralSavas" /> </p>
