@@ -1,6 +1,7 @@
 [![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Meral+SAVAS;Welcome+to+my+Github+profile;I'm+Fullstack+Developer...;)](https://git.io/typing-svg)
 <p align="center">
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/meral-savas-55b45723a/]) 
+<a href="https://d34zoluwvem4yl.cloudfront.net/Professional_full_stack_web_development_service_in_Bangladesh-_Full_stack_web_developer.gif" target="blank"> 	
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meral-savas-55b45723a/) 
 <h3 align="center">A passionate Frontend Developer from UK</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MeralSavas&label=Profile%20views&color=0e75b6&style=flat" alt="MeralSavas" /> </p>
 - :seedling: I'm currently learning **Fullstack Developer**
