@@ -1,7 +1,7 @@
 [![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Meral+SAVAS;Welcome+to+my+Github+profile;I'm+Fullstack+Developer...;)](https://git.io/typing-svg)
 <p align="center">
 <div align="center">
-        <img src="https://www.fullstacktechnology.com/wp-content/uploads/2020/10/web_development_2.gif" alt="gif">
+        <img src="https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966" alt="gif">
 </div>
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meral-savas-55b45723a/) 
 <h3 align="center">A passionate Frontend Developer from UK</h3>
