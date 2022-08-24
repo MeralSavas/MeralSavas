@@ -3,7 +3,7 @@
 <div align="center">
         <img src="https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966" alt="gif" width="400" height="400">
 </div>
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meral-savas-55b45723a/)
+[(https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meral-savas-55b45723a/)
 <h3 align="center">A passionate Frontend Developer from UK</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MeralSavas&label=Profile%20views&color=0e75b6&style=flat" alt="MeralSavas" /> </p>
 - :seedling: I'm currently learning **Fullstack Developer**<br>
