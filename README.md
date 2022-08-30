@@ -36,7 +36,7 @@
  -->
 <div align="center">
   <!-- <a href=""> -->
-  <img  src="https://github.com/AdamHopeful/resources/blob/main/grid-snake.svg"
+  <img  src="https://github.com/MeralSavas/snake/blob/main/grid-snake.svg"
        alt="snake" /></a>
 </div>
 <h3 align="left">:mailbox: &nbsp;Feel Free to Contact me.....</h3>
